@@ -1,2 +1,2 @@
-WikidataChromeSearch
-====================
+Wikidata Chrome Search
+======================
