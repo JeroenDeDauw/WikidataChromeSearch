@@ -10,5 +10,6 @@
 	},
 	"icons": {
 		"16": "wikidata.ico"
-	}
+	},
+	"manifest_version": 2
 }
