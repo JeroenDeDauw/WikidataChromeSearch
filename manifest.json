@@ -1,0 +1,14 @@
+{
+	"name": "Wikidata search",
+	"description" : "Search plugin for Wikidata, the free knowledge base that anyone can edit..",
+	"version": "1.0",
+	"background": {
+		"scripts": ["background.js"]
+	},
+	"omnibox": {
+		"keyword" : "wikidata"
+	},
+	"icons": {
+		"16": "wikidata.ico"
+	}
+}
