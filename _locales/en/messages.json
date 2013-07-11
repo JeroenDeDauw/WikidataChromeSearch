@@ -1,0 +1,10 @@
+{
+	"extensionName": {
+		"message": "Wikidata search",
+		"description": "The name of the extension"
+	},
+	"extensionDescription": {
+		"message": "Search plugin for Wikidata, the free knowledge base that anyone can edit.",
+		"description": "The description of the extension"
+	}
+}
