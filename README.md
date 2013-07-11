@@ -16,7 +16,10 @@ takes you to the item on wikidata.org.
 
 At this point, only English labels and descriptions for items will be searched against.
 
+
 Possible future improvements
 ----------------------------
 
 * Support for other languages
+* Improve aliases or other info when there is no description
+* General improvements to the search API on the Wikidata side
