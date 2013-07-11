@@ -3,17 +3,17 @@
 	"description" : "Search plugin for Wikidata, the free knowledge base that anyone can edit..",
 	"version": "1.0",
 	"background": {
-		"scripts": ["background.js"]
+		"scripts": ["src/itemSuggester.js"]
 	},
 	"omnibox": {
 		"keyword" : "wikidata"
 	},
 	"icons": {
-		"16": "wikidata.png"
+		"16": "img/wikidata.png"
 	},
 	"permissions": [
 		"tabs",
-		"https://*.wikidata.org/"
+		"https://www.wikidata.org/w/api.php?action=wbsearchentities*"
 	],
 	"manifest_version": 2
 }
