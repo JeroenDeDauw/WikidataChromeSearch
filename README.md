@@ -4,7 +4,7 @@ Wikidata Chrome Search
 [Chromium](http://www.chromium.org/) search plugin for [Wikidata](https://wikidata.org/),
 the free knowledge base that anyone can edit.
 
-You can [download it at the Chrome webstore](https://chrome.google.com/webstore/detail/wikidata-search/ingjkjibhnkhomomlmlabndfmiaejkpn)
+You can [download it at the Chrome webstore](https://chrome.google.com/webstore/detail/wikidata-search/ingjkjibhnkhomomlmlabndfmiaejkpn).
 
 Usage
 -----
