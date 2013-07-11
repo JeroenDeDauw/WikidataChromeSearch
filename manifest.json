@@ -9,7 +9,11 @@
 		"keyword" : "wikidata"
 	},
 	"icons": {
-		"16": "wikidata.ico"
+		"16": "wikidata.png"
 	},
+	"permissions": [
+		"tabs",
+		"https://*.wikidata.org/"
+	],
 	"manifest_version": 2
 }
