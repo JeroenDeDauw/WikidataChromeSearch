@@ -61,8 +61,16 @@ function getSuggestionsForEntities( foundEntities ) {
 }
 
 chrome.omnibox.onInputEntered.addListener(
-	function(url) {
-		navigate(url);
+	function(searchTermOrUrl) {
+		if ( searchTermOrUrl.indexOf( 'https://www.wikidata.org/wiki/' ) === 0 ) {
+			navigate(searchTermOrUrl);
+		}
+		else {
+			navigate(
+				'https://www.wikidata.org/wiki/Special:Search?search='
+					+ encodeURIComponent( searchTermOrUrl )
+			);
+		}
 	}
 );
 

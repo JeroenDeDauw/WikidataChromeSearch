@@ -9,7 +9,7 @@ You can [download it at the Chrome webstore](https://chrome.google.com/webstore/
 Usage
 -----
 
-To search against Wikidata, type "wikidata" in the search bar, followed by your search terms.
+To search against Wikidata, type "wd" in the search bar, followed by your search terms.
 
 Up to three results will be shown. These are indicated by a small Wikidata logo. Each result
 contains the English label followed by the English description, when available. Selecting
@@ -24,6 +24,22 @@ Screenshots
 ![Searching for "Wikipedia"](img/searchStart.jpeg)
 
 ![Searching for "Wikipedia"](img/searchUrl.jpeg)
+
+Release notes
+-------------
+
+### Version 1.1
+
+2013-07-13
+
+* Search keyword changed from "wikidata" to "wd".
+* Submitting the search rather then picking one of the suggestions now also works.
+
+### Version 1.0
+
+2013-07-11
+
+* Initial release
 
 Possible future improvements
 ----------------------------
