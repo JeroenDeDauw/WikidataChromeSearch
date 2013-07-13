@@ -34,6 +34,7 @@ Release notes
 
 * Search keyword changed from "wikidata" to "wd".
 * Submitting the search rather then picking one of the suggestions now also works.
+* Added an options page that allows changing the default max suggestions from 3 to a value between 1 and 7.
 
 ### Version 1.0
 

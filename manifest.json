@@ -25,5 +25,7 @@
 		"scripts": ["src/itemSuggester.js"]
 	},
 
+	"options_page": "src/options.html",
+
 	"manifest_version": 2
 }

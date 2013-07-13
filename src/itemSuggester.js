@@ -21,7 +21,8 @@ chrome.omnibox.onInputChanged.addListener(
 
 function findMatchingEntities(query, callback) {
 	var url = "https://www.wikidata.org/w/api.php?"
-		+ "action=wbsearchentities&format=json&language=en&type=item&continue=0&limit=3"
+		+ "action=wbsearchentities&format=json&language=en&type=item&continue=0&limit="
+		+ ( localStorage["wikidataSearchMaxSuggestionCount"] || 3 )
 		+ "&search=" + encodeURIComponent( query );
 
 	var req = new XMLHttpRequest();

@@ -6,5 +6,17 @@
 	"extensionDescription": {
 		"message": "Search plugin for Wikidata, the free knowledge base that anyone can edit.",
 		"description": "The description of the extension"
+	},
+	"optionsSaved": {
+		"message": "Options saved!",
+		"description": "Success message shown after the options got saved"
+	},
+	"maxSuggestions": {
+		"message": "Maximum number of suggestions to show",
+		"description": "Message displayed on the options page for the max suggestions option"
+	},
+	"extensionOptions": {
+		"message": "Wikidata search options",
+		"description": "Title of the options page"
 	}
 }
