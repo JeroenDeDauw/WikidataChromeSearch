@@ -21,9 +21,9 @@ At this point, only English labels and descriptions for items will be searched a
 Screenshots
 -----------
 
-![Searching for "Wikipedia"](img/searchStart.jpeg)
+![Searching for "Wikipedia"](screens/searchStart.jpeg)
 
-![Searching for "Wikipedia"](img/searchUrl.jpeg)
+![Searching for "Wikipedia"](screens/searchUrl.jpeg)
 
 Release notes
 -------------
