@@ -48,3 +48,8 @@ Possible future improvements
 * Support for other languages
 * Improve aliases or other info when there is no description
 * General improvements to the search API on the Wikidata side
+
+News
+----
+
+* [Blog post: Wikidata search plugins](http://www.bn2vs.com/blog/2013/07/12/wikidata-search-plugins/)
